@@ -1,0 +1,101 @@
+{
+  "src/assets/svg/logo.svg": {
+    "file": "static/svg/logo.da9b9095.svg",
+    "src": "src/assets/svg/logo.svg"
+  },
+  "index.html": {
+    "file": "static/js/index.2fbe9b29.js",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/pages/[id].vue",
+      "src/pages/bootstrap.vue",
+      "src/pages/count.vue",
+      "src/pages/fetch.vue",
+      "src/pages/position.vue",
+      "src/pages/tailwind.vue",
+      "src/pages/test.vue"
+    ],
+    "assets": [
+      "static/svg/logo.da9b9095.svg"
+    ]
+  },
+  "src/pages/[id].vue": {
+    "file": "static/js/_id_.41fda01d.js",
+    "src": "src/pages/[id].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/pages/bootstrap.vue": {
+    "file": "static/js/bootstrap.d9930926.js",
+    "src": "src/pages/bootstrap.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/pages/count.vue": {
+    "file": "static/js/count.c3331afb.js",
+    "src": "src/pages/count.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index.147e7afb.js"
+    ]
+  },
+  "_index.147e7afb.js": {
+    "file": "static/js/index.147e7afb.js",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/pages/fetch.vue": {
+    "file": "static/js/fetch.4bab6b19.js",
+    "src": "src/pages/fetch.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index.147e7afb.js",
+      "_index.a648f996.js"
+    ]
+  },
+  "_index.a648f996.js": {
+    "file": "static/js/index.a648f996.js",
+    "imports": [
+      "index.html",
+      "_index.147e7afb.js"
+    ]
+  },
+  "src/pages/position.vue": {
+    "file": "static/js/position.020a996c.js",
+    "src": "src/pages/position.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_index.147e7afb.js",
+      "_index.a648f996.js"
+    ]
+  },
+  "src/pages/tailwind.vue": {
+    "file": "static/js/tailwind.c867e331.js",
+    "src": "src/pages/tailwind.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "src/pages/test.vue": {
+    "file": "static/js/test.86d646ea.js",
+    "src": "src/pages/test.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "style.css": {
+    "file": "static/css/style.fecd7b0f.css",
+    "src": "style.css"
+  }
+}

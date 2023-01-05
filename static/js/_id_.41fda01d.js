@@ -1,0 +1,1 @@
+import{_ as s,u as t,c as r,t as a,a as o,o as _}from"./index.2fbe9b29.js";const c={__name:"[id]",setup(n){const e=t();return(u,p)=>(_(),r("h1",null,a(o(e).params.id),1))}},l=s(c,[["__file","/Users/curry/Desktop/vite/src/pages/[id].vue"]]);export{l as default};
